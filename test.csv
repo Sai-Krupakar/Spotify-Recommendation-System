@@ -1,0 +1,202 @@
+﻿genre,artist_name,track_name,track_id,popularity,acousticness,danceability,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,valence,User_id
+Movie,Henri Salvador,C'est beau de faire un Show,0BRjO6ga9RKCKjfDqeFgWV,0,0.611,0.389,99373,0.91,0,C#,0.346,-1.828,Major,0.0525,166.969,4/4,0.814,#12345r
+Movie,Martin & les fées,Perdu d'avance (par Gad Elmaleh),0BjC1NfoEOOusryehmNudP,1,0.246,0.59,137373,0.737,0,F#,0.151,-5.559,Minor,0.0868,174.003,4/4,0.816,#12345r
+Movie,Joseph Williams,Don't Let Me Be Lonely Tonight,0CoSDzoNIKCRs124s9uTVy,3,0.952,0.663,170267,0.131,0,C,0.103,-13.879,Minor,0.0362,99.488,5/4,0.368,#12345r
+Movie,Henri Salvador,Dis-moi Monsieur Gordon Cooper,0Gc6TVm52BwZD07Ki6tIvf,0,0.703,0.24,152427,0.326,0,C#,0.0985,-12.178,Major,0.0395,171.758,4/4,0.227,#12345r
+Movie,Fabien Nataf,Ouverture,0IuslXpMROHdEPvSl1fTQK,4,0.95,0.331,82625,0.225,0.123,F,0.202,-21.15,Major,0.0456,140.576,4/4,0.39,#12345r
+Movie,Henri Salvador,Le petit souper aux chandelles,0Mf1jKa8eNAf1a4PwTbizj,0,0.749,0.578,160627,0.0948,0,C#,0.107,-14.97,Major,0.143,87.479,4/4,0.358,#12345r
+Movie,Martin & les fées,"Premières recherches (par Paul Ventimila, Lorie Pester, Véronique Jannot, Michèle Laroque & Gérard Lenorman)",0NUiKYRd6jt1LKMYGkUdnZ,2,0.344,0.703,212293,0.27,0,C#,0.105,-12.675,Major,0.953,82.873,4/4,0.533,#12345r
+Movie,Laura Mayne,Let Me Let Go,0PbIF9YVD505GutwotpB5C,15,0.939,0.416,240067,0.269,0,F#,0.113,-8.949,Major,0.0286,96.827,4/4,0.274,#12345r
+Movie,Chorus,Helka,0ST6uPfvaPpJLtQwhE6KfC,0,0.00104,0.734,226200,0.481,0.00086,C,0.0765,-7.725,Major,0.046,125.08,4/4,0.765,#12345r
+Movie,Le Club des Juniors,Les bisous des bisounours,0VSqZ3KStsjcfERGdcWpFO,10,0.319,0.598,152694,0.705,0.00125,G,0.349,-7.79,Major,0.0281,137.496,4/4,0.718,#12345r
+Movie,Leopold Stokowski,Symphony No.4 In E Minor Op.98 : IV. Allegro Energico E Passionato,0XKgegoxLcIihK3Klpfo3N,0,0.921,0.191,566960,0.145,0.529,E,0.141,-17.239,Minor,0.0393,85.225,4/4,0.0849,#12345r
+Movie,Randy Newman,The Hanging (Maverick - Original Motion Picture Score) - Remastered,0hprxsuRM5vVCOfaM7l3gQ,2,0.0383,0.23,121333,0.133,0.887,C,0.0872,-19.051,Major,0.0302,91.739,4/4,0.118,#12345r
+Movie,Idoles De La Musique,J'ai demandé à la lune,0jF6HUm18fg6QQCLHhfhC0,4,0.215,0.68,213589,0.6,0.0729,F#,0.111,-7.702,Minor,0.0258,110.026,4/4,0.433,#12345r
+Movie,Chorus,Mangala Aarti,0jIY0oRAp1T4mezDyEhOad,3,0.958,0.758,308627,0.264,0,D#,0.0543,-11.966,Major,0.0496,110.068,3/4,0.742,#12345r
+Movie,Richard M. Sherman,Keys of Love,0pXwl2CRP5awxHsF9eET3L,0,0.97,0.4,159253,0.174,0.933,G,0.13,-13.869,Major,0.0458,115.022,4/4,0.27,#12345r
+Movie,Michel Roux,Les aventures d'Arsène Lupin: 813 - Partie 6,0uWUjxM7oDPKpb3T2y3oZm,0,0.548,0.588,2447870,0.405,0,G#,0.754,-15.55,Major,0.938,83.56,3/4,0.48,#12345r
+Movie,Jean Claude Corbel,Diane,0vS7Zid3q0dMyX8uMnlQ8s,0,0.7,0.625,523424,0.237,0,D,0.319,-16.655,Major,0.561,108.508,3/4,0.298,#12345r
+Movie,Bernard Minet,Ultra Man 80,0x8xSaoSfQkOYUnG1nbga0,3,0.488,0.744,178107,0.953,0,E,0.453,-4.986,Major,0.037,129.959,4/4,0.926,#12345r
+Movie,Henri Salvador,Veunise,113pHPsGwyeklEjLhnB3ZT,1,0.381,0.451,194360,0.491,0,D,0.152,-8.73,Major,0.0548,71.633,3/4,0.516,#12345r
+Movie,Amalya,Ladies And Gentlemen,12ZjoNweObu1k9rK4SOSdL,4,0.161,0.522,207240,0.748,7.25e-06,C#,0.111,-5.203,Major,0.0824,184.063,4/4,0.733,#12345r
+Movie,Martin & les fées,"Tout est possible (par Anggun, Dany Brillant, Garou, Gérard Lenorman, Julie Zenatti, Lisa Angell, Lorie Pester, Natasha St-Pier, Patrick Fiori, Paul Ventimila, Sara Carreira, Veronique Jannot & Vincent Niclo)",12hJJLMMbJDK0F9I3g5SLv,1,0.852,0.362,219600,0.436,0,C,0.0941,-6.971,Major,0.0321,79.542,4/4,0.32,#12345r
+Movie,Dorothée,Clic clac cloc,148uA2Y78xfxDiCNjgZA0v,1,0.513,0.855,183467,0.504,0,D,0.0778,-12.359,Major,0.0737,128.052,4/4,0.682,#12345r
+Movie,Henri Salvador,Monsieur Boum Boum,14K25Ks5fdHjHfpIYOTc4y,8,0.689,0.704,161773,0.804,0.0422,C,0.18,-6.699,Major,0.109,127.999,4/4,0.836,#12345r
+Movie,Jean Claude Corbel,Pourquoi aller plus loin ?,15CpJP0LXchBUjpB8RKh8m,0,0.669,0.707,71299,0.696,0,C,0.197,-10.472,Major,0.028,114.752,4/4,0.833,#12345r
+Movie,Henri Salvador,Quand je monte chez toi,15nBPcHoH2fZmRiFd2ZhMh,5,0.706,0.526,181441,0.298,0,F,0.143,-7.287,Major,0.0621,156.35,4/4,0.396,#12345r
+Movie,Jean Piat,Comme minuit sonnait,16UTNMhXjeJa8IG9uBijxZ,0,0.882,0.711,299040,0.218,0,A#,0.145,-22.212,Minor,0.681,125.521,5/4,0.591,#12345r
+Movie,Henri Salvador,Le Fêtard,16hVzfu0IJZmP3Bj4x1BB1,0,0.159,0.636,152840,0.594,0,G#,0.184,-7.943,Major,0.084,111.361,4/4,0.669,#12345r
+Movie,Lucie Dolene,Le mariage des poupées,17c4utCC03TPtTHXw2EVGB,0,0.864,0.594,156973,0.481,0,G,0.359,-7.678,Minor,0.0917,136.182,4/4,0.728,#12345r
+Movie,Henri Salvador,Une chanson douce,1J5pa9cW0uCsNrFwag0jDD,2,0.716,0.835,142813,0.384,8.13e-06,G#,0.265,-15.629,Major,0.127,126.892,4/4,0.971,#12345r
+Movie,Chorus,Mangani – Do Banjare / Amba Heth,1KIKeCTNJKYpQK5X5Sqc1v,0,0.184,0.695,430240,0.5,0.000328,A,0.33,-10.217,Minor,0.0351,112.965,1/4,0.756,#12345r
+Movie,Chorus,A ty się śmiejesz ze mnie,1KVSUAEvXBSlARo03y4YYG,0,0.00323,0.711,221320,0.941,0.0011,C,0.309,-4.008,Major,0.118,145.125,4/4,0.812,#12345r
+Movie,Martin & les fées,Une journée d'école qui s'achève (par Véronique Jannot),1LFky4DBeOLzVWbg0avgod,4,0.305,0.618,49373,0.283,0,B,0.226,-16.222,Minor,0.85,70.941,4/4,0.751,#12345r
+Movie,Henri Salvador,C Est Le Be Bop,1R8nFU8no9yINDiCzBcgB3,0,0.922,0.681,129707,0.44,0,C,0.0397,-12.508,Minor,0.222,84.173,4/4,0.747,#12345r
+Movie,Henri Salvador,La Samba De Là-Bas,1X8uhUgBKmotpvHrsS7fEe,0,0.942,0.883,171027,0.418,0,A#,0.362,-11.432,Major,0.228,128.494,4/4,0.858,#12345r
+Movie,Chorus,Ambarsare Diyan Warhiyan,1Zj5XBiUaHTkkBJ2nET477,0,0.123,0.784,235000,0.653,0.002,E,0.222,-10.732,Minor,0.0584,94.011,4/4,0.968,#12345r
+Movie,Henri Salvador,Silence on tourne,1bo3gLD3Es261UYTfMLh4y,0,0.767,0.776,169352,0.468,1.27e-06,G#,0.214,-11.235,Major,0.317,116.674,4/4,0.908,#12345r
+Movie,Chorus,For the Game,1cAI02OznrXX5yrqonMCfh,0,0.164,0.848,215333,0.826,0,A,0.131,-6.746,Major,0.253,126,4/4,0.637,#12345r
+Movie,Henri Salvador,Quand un artiste - live,1dQKx8EJBbhHxc7qOgsBjb,1,0.619,0.483,218187,0.497,0,E,0.421,-12.089,Major,0.415,121.719,4/4,0.569,#12345r
+Movie,Richard M. Sherman,Afterglow,1j6b29LbEnEqbn8aswj4p1,0,0.932,0.348,127507,0.2,0.919,D#,0.109,-14.06,Major,0.0436,99.028,3/4,0.188,#12345r
+Movie,Larry Groce,"Sailing, Sailing",1jyknwZYTEEj1TCUozUbCi,0,0.508,0.567,22413,0.654,0,G,0.119,-6.058,Major,0.0877,118.909,4/4,0.618,#12345r
+Movie,Chorus,Tehni Pe Kisi Shajar,1lG8EIwGceFVRntJvA9hnY,0,0.649,0.483,189027,0.366,8.32e-06,B,0.0986,-15.603,Major,0.0296,83.102,4/4,0.856,#12345r
+Movie,Leopold Stokowski,"Bourrée, From English Suite No. 2, BWV 807",1ppTRhpfunYl8Jd3Hfckee,1,0.983,0.42,199160,0.0638,0.976,A,0.231,-20.951,Minor,0.0426,77.397,4/4,0.548,#12345r
+Movie,Henri Salvador,La Vie grise,1py5dPKJVdQmXdZKjdvmwB,0,0.934,0.336,160053,0.107,4.9e-05,G#,0.453,-15.267,Major,0.0355,77.719,4/4,0.222,#12345r
+Movie,Patrick Rocca,To Be or Not to Be,1q7DDr7riLHgrqAMxyZNFC,1,0.576,0.503,121533,0.456,0,A,0.133,-10.465,Minor,0.0548,143.797,4/4,0.691,#12345r
+Movie,Ken Page,Dancing with Gene,1qCTyNzxGkFXnvdrqT5olw,0,0.751,0.566,371720,0.512,0,G,0.158,-8.904,Major,0.666,138.484,3/4,0.464,#12345r
+Movie,Ken Page,Penn Station - Seesaw,1qda3iYG5DlQJeY5BpSmpe,0,0.614,0.434,77067,0.528,0,C,0.107,-7.479,Major,0.276,69.547,4/4,0.735,#12345r
+Movie,Bernard Minet,Dragon Ball GT,1wUjDOW0NXDBUPYPzNxczV,4,0.0287,0.669,181173,0.937,0,A,0.0809,-6.85,Major,0.0713,134.905,4/4,0.641,#12345r
+Movie,Debbie Davis,I'll Feel Much Better When You Cry,23YuvN1cvAocACyKpYqzvu,3,0.285,0.555,278160,0.773,0.000732,E,0.0929,-5.438,Major,0.04,120.07,3/4,0.616,#12345r
+Movie,Henri Salvador,"La samba de là-bas (De l'opérette ""Le Chevalier Bayard"")",244U5mhlSmoudM4BMN25Wu,0,0.659,0.804,169853,0.636,0,A#,0.158,-6.968,Major,0.0897,128.111,4/4,0.932,#12345r
+Movie,Dorothée,J'ai retrouvé ma valise,24QIhmFU3ve4VIwDlBTtlp,1,0.581,0.885,212627,0.341,0,F,0.0928,-16.44,Major,0.0758,121.628,4/4,0.911,#12345r
+Movie,Claire Guyot,Le silence,24XhoLQObCUbk4ybOWtrZl,1,0.902,0.489,128871,0.26,0.000683,A#,0.0944,-11.876,Major,0.0884,93.186,1/4,0.371,#12345r
+Movie,Chantal Goya,Animauxville (Départ) - Live,24YkUVThOdm5kpX15kcK8Q,5,0.386,0.43,47172,0.932,2.94e-05,C#,0.539,-9.149,Major,0.0568,145.695,4/4,0.393,#12345r
+Movie,Henri Salvador,Sketch producteur (suite),279g1SI8xH7ItKaJxM6TLI,1,0.712,0.63,56067,0.606,0,G,0.614,-10.914,Major,0.961,167.889,5/4,0.499,#12345r
+Movie,Lucie Dolene,Sphinx,27AtBxw44IKdMNHnxmg6rB,0,0.917,0.428,198040,0.317,0,A#,0.155,-9.099,Major,0.037,120.689,4/4,0.509,#12345r
+Movie,Jean Piat,L'Âne chargé d'éponges et l'Âne chargé de sel,2BF5SlaZRL0sYUDBgwjmbo,0,0.924,0.683,101653,0.147,0,G#,0.606,-21.998,Major,0.822,32.244,4/4,0.595,#12345r
+Movie,Justin Hurwitz,"Rialto - From ""La La Land"" Score",2BcLdx9G6GF32IWlvb1UGa,3,0.967,0.55,28027,0.0148,0.0608,G#,0.0793,-22.731,Major,0.0492,74.756,1/4,0.592,#12345r
+Movie,Chorus,Stous athanatous nekrous (To Immortal Deads),2Do96Wm75pSsMBm8lmIhQg,0,0.989,0.262,220173,0.151,0,A,0.137,-14.86,Major,0.036,75.964,4/4,0.369,#12345r
+Movie,Henri Salvador,Bon Dieu qu'elle est con - live,2G2CWFXYakUgdQyweO4MKv,1,0.728,0.538,139840,0.294,0,A#,0.71,-12.646,Major,0.119,109.024,4/4,0.279,#12345r
+Movie,Randy Newman,Jack To The Rescue - Meet The Parents/Soundtrack,2I5Vq5yS1xuh9lk0mZ2oMS,1,0.871,0.297,65560,0.0808,0.891,A#,0.208,-20.471,Major,0.031,106.209,4/4,0.183,#12345r
+Movie,Chorus,Shree Ram Chant,2MkMN3nFkYzdXlYrhAS0GJ,4,0.126,0.542,515613,0.797,0,E,0.219,-4.337,Major,0.0329,127.945,4/4,0.563,#12345r
+Movie,Marie Ruggieri,"Oh quel chien/Il se traîne - From ""Lady and the Tramp""/French Soundtrack Version",2PSSi1isCZITVBIEwL420B,0,0.929,0.443,144560,0.16,0,G,0.157,-15.269,Major,0.0689,108.483,4/4,0.193,#12345r
+Movie,Chorus,Mangal Aarti,2SJMPPj5nNlizdz58AgzL6,0,0.455,0.714,184987,0.346,0,F#,0.592,-14.199,Major,0.0967,81.668,4/4,0.601,#12345r
+Movie,Henri Salvador,Malgré tes serments,2TXdgzpGp97Wrb23ue9rVk,0,0.983,0.341,136253,0.156,0.0418,A#,0.232,-14.696,Major,0.0312,84.488,1/4,0.336,#12345r
+Movie,Henri Salvador,Audustin ! Y'a quelqu'un qui te demande,2ULwBLyVAflWmyTcSWdetF,0,0.733,0.775,194769,0.356,0,E,0.158,-11.581,Minor,0.458,139.526,4/4,0.691,#12345r
+Movie,Chorus,Nadipinche Naa Naayaka,2WsyzikcaMllNx3HCbHnl1,0,0.71,0.582,303413,0.679,0.0286,G,0.337,-9.225,Minor,0.0547,115.136,4/4,0.84,#12345r
+Movie,Karine Costa,Super Insomniaque,2WwJlG8fczrLwRAxsnXRl7,0,0.0575,0.59,248960,0.847,0,B,0.32,-7.995,Minor,0.138,205.455,4/4,0.757,#12345r
+Movie,Henri Salvador,Papa loves mambo,2Y1TGD05ZJoTihQuZfZJEZ,0,0.667,0.602,201587,0.702,1.66e-05,C,0.117,-6.352,Major,0.149,149.17,4/4,0.918,#12345r
+Movie,Chorus,Om Jayanti Mangla,2YeFJwywiUPeQiUtEeGPyQ,0,0.791,0.447,107703,0.253,0,A#,0.0919,-11.927,Major,0.0349,107.94,5/4,0.469,#12345r
+Movie,Dorothée,J'ai vidé ma valise,2aN00IOtoPDWAsTzWeGT21,0,0.334,0.84,148867,0.557,0,G,0.181,-14.391,Major,0.0407,141.148,4/4,0.967,#12345r
+Movie,Chorus,Takhti Par Takhti,2blJzY8Ohl2E2vEdQ2wlEn,0,0.933,0.676,214093,0.697,0.0117,F#,0.484,-7.81,Minor,0.109,105.921,4/4,0.914,#12345r
+Movie,Fabien Nataf,I Try,2e3v5wfUN8UB4jB41eDr4k,4,0.48,0.914,75102,0.224,2.44e-05,D,0.232,-15.397,Major,0.0556,103.926,4/4,0.761,#12345r
+Movie,Pascal Laffarge,Il pleut bergère,2eBvh4fOjch2HK8NVYYWRP,0,0.615,0.394,121480,0.384,0.0106,D,0.119,-10.737,Major,0.0294,91.858,3/4,0.33,#12345r
+Movie,Frank Churchill,Snow White: Taas paiva kaunein on (Some Day My Prince Will Come),2hQlHB5r3uNFlyJYWABUk7,0,0.979,0.238,147067,0.151,0.000184,F,0.13,-17.031,Major,0.0594,189.101,4/4,0.0767,#12345r
+Movie,Chorus,Baaramma - Bit,2hi0z5RkTEVbTVO4h7t7ch,0,0.939,0.582,75337,0.174,8.63e-05,E,0.128,-8.096,Minor,0.0342,94.708,4/4,0.366,#12345r
+Movie,Jean Claude Corbel,Le Vilain Petit Canard 2,2j6xLFrJ3gp233MLhaMqHX,0,0.695,0.71,492813,0.231,0,F,0.176,-16.156,Minor,0.874,110.924,1/4,0.493,#12345r
+Movie,Jean Claude Corbel,Les poissons voyageurs,2jBp52nfXVpHbt9dqf0cSs,0,0.756,0.564,248221,0.275,0,G,0.313,-14.068,Major,0.199,107.945,4/4,0.413,#12345r
+Movie,Dominique Tirmont,La Toulousaine,2kfppyLcqATE9Qi8hSOiyx,0,0.91,0.388,118600,0.448,0,A,0.349,-6.823,Major,0.0558,90.92,3/4,0.679,#12345r
+Movie,Henri Salvador,Monsieur Le Bon Dieu,2n4an2QX7Np3yhM8T0HWdz,0,0.776,0.363,180133,0.153,9e-06,C,0.355,-10.686,Major,0.0346,73.134,4/4,0.352,#12345r
+Movie,Jean Claude Corbel,Le voyage à Lilliput,2nM2RKLUqdVJYakMbaWBHC,0,0.715,0.569,978303,0.345,0,C,0.111,-12.506,Minor,0.484,88.225,3/4,0.351,#12345r
+Movie,Jean Claude Corbel,Le Chat Botté 4,2qZswteMfdcc3FLjaYR38E,0,0.778,0.61,199587,0.266,0,G,0.269,-15.15,Major,0.924,84.943,4/4,0.633,#12345r
+Movie,Chorus,Tsamikos Horos (Tsamikos Dance),2rQ1lgMI65SW3je5bQlA1K,0,0.398,0.633,211133,0.605,0.000169,F,0.109,-5.584,Major,0.0288,90.014,3/4,0.727,#12345r
+Movie,Chorus,Lalitha Parameshwari,2rT3uD6EjROZdP6UIf6C6p,0,0.761,0.672,69355,0.651,0.00445,C,0.109,-8.598,Major,0.0278,109.982,4/4,0.813,#12345r
+Movie,Jean Claude Corbel,Le Petit Poucet 2,2uou9Wr6a3HxmieA8NafPc,0,0.616,0.714,292720,0.253,0,F,0.21,-15.703,Minor,0.892,125.097,3/4,0.504,#12345r
+Movie,Leopold Stokowski,"We All Believe In One God, Giant Fugue, BWV 680",2wQgXSFESMAgmpkI14Pr7s,1,0.962,0.168,195827,0.185,0.855,D,0.125,-17.834,Minor,0.0385,143.78,4/4,0.195,#12345r
+Movie,Dominique Tirmont,La petite diligence,2y9CiiXaeZUdX3ZjsnkCVb,1,0.611,0.702,134093,0.509,0,G,0.9,-8.535,Minor,0.0685,92.235,4/4,0.77,#12345r
+Movie,Debbie Davis,Rap-a-Cito,316vZ2FFcGlhI7XDld9fay,6,0.525,0.6,61800,0.658,4.81e-05,G,0.131,-11.71,Minor,0.0537,120.984,4/4,0.334,#12345r
+Movie,Chorus,Thandeye Oh,321MDop1sPmNMO0UQE4EcJ,0,0.876,0.468,259000,0.642,0.000381,G,0.177,-9.841,Minor,0.0408,111.132,4/4,0.758,#12345r
+Movie,Chorus,Banga Aamar,35W7MQyH36gNt3EoR0qZdV,0,0.847,0.494,367747,0.444,0,F,0.1,-6.797,Major,0.0285,80.581,3/4,0.373,#12345r
+Movie,Bernard Minet,Dis-moi monsieur Bernard Minet,38QPdO8qO4xuavpeHF1oyr,3,0.66,0.657,247600,0.626,6.03e-06,D,0.199,-8.672,Major,0.0283,81.994,4/4,0.808,#12345r
+Movie,Chorus,Sai Parameshwar Sai Karuneshwar,3AnPOKKZV1NRhED24p9YeX,7,0.366,0.694,315693,0.376,0,C#,0.146,-10.449,Major,0.0298,79.027,4/4,0.59,#12345r
+Movie,Chorus,Shanthi Koru,3Cr09kBxG7FE9fvbSPlcIN,0,0.357,0.61,255347,0.833,3.55e-05,A,0.248,-14.082,Major,0.503,139.031,4/4,0.194,#12345r
+Movie,Chorus,Aa Divyanaama,3Ez6AS04xRmFq3K7wr7ayj,0,0.813,0.525,296373,0.607,2.95e-05,G,0.119,-9.787,Major,0.0282,131.504,4/4,0.699,#12345r
+Movie,Martin & les fées,Le plus beau de tes rêves (par Anggun),3FQJq6X5IHjFyncHoouuRA,4,0.345,0.505,154493,0.522,0,C#,0.207,-6.523,Minor,0.037,153.856,4/4,0.385,#12345r
+Movie,Henri Salvador,Chanson surrealiste,3GgYVk6uLkNNuE2O7zHhvZ,0,0.79,0.701,133982,0.347,3.16e-06,G#,0.249,-10.82,Major,0.627,104.997,3/4,0.571,#12345r
+Movie,Henri Salvador,Grosse Fille Ne Pleure Pas - Remastered,3JO7xCEBoFzVpuO42LTTB4,11,0.0367,0.441,137733,0.643,0,F,0.0925,-7.819,Minor,0.043,72.354,4/4,0.736,#12345r
+Movie,Claire Guyot,Assise au bord du monde,3JldnhrVM001MJHN7GsB3T,0,0.744,0.193,234754,0.477,7.44e-05,F,0.173,-9.086,Major,0.043,77.528,4/4,0.191,#12345r
+Movie,Chorus,Koti Chennaya(Vol.1 &amp; 2),3NXlNZSmjO3DsJ3DQuyU8e,0,0.84,0.688,3435625,0.331,0,F,0.0673,-8.645,Major,0.772,102.244,4/4,0.529,#12345r
+Movie,Henri Salvador,"Dis-moi qu'tu m'aimes, rock",3Ng7AEyRUZxPgDgVW2jZoM,1,0.844,0.592,156267,0.632,0,F,0.0908,-4.17,Minor,0.144,87.819,4/4,0.748,#12345r
+Movie,Richard M. Sherman,Forgotten Dreams,3PyfS1XmjHk1JZ004a2bFZ,0,0.987,0.429,89947,0.0478,0.959,E,0.102,-14.17,Minor,0.0468,82.388,4/4,0.111,#12345r
+Movie,Chorus,High (feat. Syross & Messieh),3R3vtgh4lKgRFtkrfrrUQs,0,0.414,0.642,154176,0.63,0,A#,0.145,-5.814,Minor,0.187,149.973,4/4,0.19,#12345r
+Movie,Chorus,Kaisi Anokhi Mehfil,3RS1F5oukDho2Wcaulaf8A,0,0.636,0.615,234480,0.846,7.55e-05,D,0.0847,-4.381,Minor,0.0909,111.79,4/4,0.924,#12345r
+Movie,Henri Salvador,24 heures par jour,3RZCz2Udhx5S9nRMasEZD5,0,0.951,0.805,153973,0.156,0,F,0.175,-13.312,Major,0.106,117.846,4/4,0.512,#12345r
+Movie,Choeurs,Georges Bizet : Sur la place,3SGmQRE8io8waO8BqDufdT,0,0.974,0.39,375258,0.196,8.05e-06,A#,0.146,-18.037,Major,0.0626,98.843,4/4,0.372,#12345r
+Movie,Chorus,Daivapithave,3U70EglrYNe7h8QdL8oSBR,0,0.523,0.627,225307,0.422,0,E,0.136,-10.8,Major,0.0262,74.05,4/4,0.387,#12345r
+Movie,Chorus,Ven a una nave espacial,3UkjsupdIvhkqnNqAZ3KAQ,1,0.506,0.653,66320,0.45,0,G,0.385,-7.184,Major,0.0402,125.081,4/4,0.663,#12345r
+Movie,Henri Salvador,Bon appétit mademoiselle,3Vr2wQVnZ24ZA7JOh1edDH,0,0.726,0.478,143933,0.461,2.95e-06,F,0.0776,-8.745,Major,0.0771,174.504,4/4,0.768,#12345r
+Movie,Chorus,Shri Gayatri Mahamantra,3W1CYVKeue4JPdTyW33LME,0,0.962,0.518,249973,0.122,0,F,0.119,-15.349,Major,0.0348,110.159,4/4,0.299,#12345r
+Movie,Larry Groce,Choices,3WkxQwVTyIzFuNJKG6qurD,1,0.407,0.508,216720,0.377,0,A,0.111,-9.52,Major,0.0319,75.2,4/4,0.587,#12345r
+Movie,Leopold Stokowski,Symphony No.1 In C Major : IV. Allegro Vivace,3aX2M9VIuxxRIZ464VQwwc,2,0.678,0.333,372107,0.384,0.861,G#,0.032,-12.059,Major,0.0389,151.039,4/4,0.379,#12345r
+Movie,Debbie Davis,You Know I'm No Good,3cyN9ErrlOPXG185e1epGD,3,0.9,0.471,252547,0.498,0.0327,D,0.117,-9.02,Minor,0.029,112.398,4/4,0.719,#12345r
+Movie,Chorus,Czy Pamiętasz,3dsuEKUO8DaD2hXaxaYlrv,0,0.0488,0.598,307867,0.704,0.229,G,0.0619,-11.439,Major,0.0409,179.966,4/4,0.405,#12345r
+Movie,Les Hérissons,Mabrouka Ananas ma Nana,3g68P6eeghUFkLcDSMVXwM,0,0.639,0.632,171356,0.86,6.55e-06,A,0.0768,-3.529,Minor,0.122,180.029,4/4,0.845,#12345r
+Movie,Henri Salvador,Cherche la rose,3j2I9sLlBQu8pMPDvw6Mhn,3,0.619,0.242,208733,0.312,1.4e-06,C#,0.109,-10.82,Major,0.0288,80.977,4/4,0.146,#12345r
+Movie,Chorus,I Denne Søte Juletid: Kom La Oss Gå Og Se!,3kO00CU9Y6u8pIbk2Oi2j4,0,0.474,0.524,101000,0.182,0.139,G,0.258,-20.347,Major,0.0417,121.235,4/4,0.478,#12345r
+Movie,Michel Roux,Les aventures d'Arsène Lupin: 813 - Partie 5,3kQkcxkRneREJohv69y6hD,0,0.529,0.643,2359123,0.415,0,F,0.536,-15.622,Minor,0.883,101.296,3/4,0.405,#12345r
+Movie,Debbie Davis,Mele Kalikimaka,3kjIWN6qPqC5YaCEByBqJ1,0,0.605,0.641,170373,0.49,0,G,0.333,-7.021,Major,0.0329,103.356,4/4,0.939,#12345r
+Movie,Chorus,Swami Samartha Majhe Aai,3nGNIiz4PTsZ7cRhNNuSd2,0,0.228,0.684,203492,0.746,0,G#,0.196,-5.847,Major,0.0448,107.854,4/4,0.745,#12345r
+Movie,Randy Newman,This Is Gonna Be Good,3nWsw3kx2rhqcooV2bLLzq,6,0.604,0.108,200053,0.196,0.327,C,0.388,-14.415,Major,0.0361,167.96,3/4,0.0625,#12345r
+Movie,Idoles De La Musique,Marie,3tYb7PIAOGa3dfYIV5eYjP,0,0.463,0.439,216155,0.609,0,A,0.112,-7.628,Minor,0.0286,114.019,4/4,0.198,#12345r
+Movie,Jean Claude Corbel,Tom Pouce 1,3uC0IWrdPuQUAxysPYFcLW,0,0.738,0.571,167053,0.204,0,E,0.319,-15.638,Major,0.878,173.591,3/4,0.673,#12345r
+Movie,Jean Claude Corbel,Les premiers mammifères,3wyfVx3VgWi3h7KUun10SR,0,0.743,0.559,181116,0.286,0,F,0.176,-17.038,Major,0.302,95.182,4/4,0.439,#12345r
+Movie,Martin & les fées,"Une énigmatique jeune femme blonde (par Véronique Jannot, Paul Ventimila & Arielle Dombasle)",40S8lAPIAKIVscROjzXM41,1,0.237,0.662,182067,0.195,0,B,0.431,-14.405,Minor,0.846,77.648,1/4,0.58,#12345r
+Movie,Bernard Minet,Juliette je t'aime - Générique,43ZOuL3sAdWyDeUmnESnxJ,10,0.629,0.659,158307,0.495,0,E,0.298,-13.879,Major,0.0832,84.958,4/4,0.782,#12345r
+Movie,Henri Salvador,Il Pleut Bergère - Remastered,44fcBVy6aGmWkqrIaIuyg8,5,0.304,0.423,124067,0.454,0,C#,0.288,-10.19,Major,0.03,88.369,4/4,0.708,#12345r
+Movie,Jean Claude Corbel,Aladin 1,46pHjxtTwKqyefPMq5HRaO,0,0.63,0.539,326800,0.462,0,B,0.164,-12.981,Minor,0.136,130.031,4/4,0.409,#12345r
+Movie,Larry Morey,The Silly Song (The Dwarfs' Yodel Song),48tWWGBcrOGnsHLr4F6QUL,1,0.713,0.823,103178,0.633,0.000512,A#,0.0536,-11.181,Major,0.0343,115.222,4/4,0.973,#12345r
+Movie,Henri Salvador,Mazurka Pour Ma Mie,4DTLThZ3hAvV3zW7TIBn6r,1,0.741,0.428,175800,0.713,0,F,0.191,-8.41,Major,0.0665,83.379,4/4,0.878,#12345r
+Movie,Houcine,Je m'accroche,4EgVeJ3g8JPPaUsoYded66,1,0.00759,0.794,207920,0.554,0.000614,A,0.143,-7.042,Major,0.0566,107.998,4/4,0.687,#12345r
+Movie,Frank Churchill,"Chorale for Snow White - From ""Snow White and the Seven Dwarfs""/Score",4LY0T9z0Nm1fZZrbBJX0pj,1,0.463,0.188,67427,0.00154,0.881,D,0.11,-25.274,Major,0.0473,65.472,3/4,0.539,#12345r
+Movie,Chorus,Titlee Pyari Titlee,4PBWE5hmOPNGB2IFPvpQGV,0,0.78,0.606,159840,0.389,0,B,0.0529,-13.774,Major,0.0316,94.089,4/4,0.848,#12345r
+Movie,Randy Newman,The Pros Go To College,4PLtMy7fhR1JlOrbZdzjWN,2,0.989,0.375,80853,0.107,0.785,D#,0.173,-18.659,Major,0.0357,107.511,4/4,0.072,#12345r
+Movie,Lucie Dolene,"Sept variations sur ""La Seine""",4QrUwzwxZn5yxStrcT8aIK,0,0.89,0.441,414213,0.214,8.59e-06,D#,0.289,-9.759,Major,0.0515,133.753,4/4,0.336,#12345r
+Movie,Randy Newman,A New Day: 7:00 A.M.,4Qt0c8DNGOxQfRADLvKvJ4,1,0.979,0.211,300800,0.041,0.926,C,0.152,-22.749,Major,0.0371,136.327,3/4,0.0378,#12345r
+Movie,Frank Churchill,"Whistle While You Work - London, Dec. 8, 1938, HMV B-8835, MX. OEA 7224-1",4TVlu8gVdYM53SoW3k7S57,0,0.987,0.723,191040,0.158,0.145,D,0.115,-16.343,Major,0.0511,110.319,4/4,0.807,#12345r
+Movie,China Moses,Nicotine,4WyeUgqbBse7RQlWUWBoJM,6,0.566,0.522,214596,0.392,5.03e-06,B,0.15,-9.537,Minor,0.069,114.95,3/4,0.36,#12345r
+R&B,Mary J. Blige,Be Without You - Kendu Mix,2YegxR5As7BeQuVp2U6pek,65,0.083,0.724,246333,0.689,0,D,0.304,-5.922,Minor,0.135,146.496,4/4,0.693,#12345r
+R&B,Rihanna,Desperado,6KFaHC9G178beAp7P0Vi5S,63,0.323,0.685,186467,0.61,0,C,0.102,-5.221,Minor,0.0439,94.384,3/4,0.323,#12345r
+R&B,Yung Bleu,Ice On My Baby (feat. Kevin Gates) - Remix,6muW8cSjJ3rusKJ0vH5olw,62,0.0675,0.762,199520,0.52,3.95e-06,F,0.114,-5.237,Minor,0.0959,75.047,4/4,0.0862,#12345r
+R&B,Surfaces,Heaven Falls / Fall on Me,7yHqOZfsXYlicyoMt62yC6,61,0.36,0.563,240597,0.366,0.00243,B,0.0955,-6.896,Minor,0.121,85.352,4/4,0.768,#12345r
+R&B,Olivia O'Brien,Love Myself,4XzgjxGKqULifVf7mnDIQK,68,0.596,0.653,213947,0.621,0,B,0.0811,-5.721,Minor,0.0409,100.006,4/4,0.466,#12345r
+R&B,ELHAE,Needs,7KdRu0h7PQ0Ecfa37rUBzW,61,0.661,0.51,205640,0.331,0,B,0.123,-13.073,Minor,0.0895,124.657,4/4,0.225,#12345r
+R&B,Nao,Make It Out Alive (feat. SiR),21Ft8ME799DMZjxNwmui6Z,64,0.667,0.67,239147,0.649,0.00013,C,0.109,-7.426,Minor,0.0875,147.935,4/4,0.618,#12345r
+R&B,Frank Ocean,Seigfried,1BViPjTT585XAhkUUrkts0,66,0.975,0.377,334570,0.255,0.000208,E,0.102,-11.165,Minor,0.0387,125.004,5/4,0.37,#12345r
+R&B,Layton Greene,Roll In Peace,33YFwLJbAdgePluIuEVa9p,60,0.72,0.523,170343,0.507,0,G,0.0774,-6.448,Minor,0.225,140.368,4/4,0.7,#12345r
+R&B,Usher,You Make Me Wanna...,47TqCCnEliDp8NRDyIQoQq,69,0.0359,0.761,219120,0.639,0,F,0.0945,-7.577,Minor,0.0539,164.088,4/4,0.922,#12345r
+R&B,Mariah Carey,Hero,4FCb4CUbFCMNRkI6lYc1zI,71,0.735,0.501,257733,0.378,0,E,0.119,-9.37,Major,0.029,119.987,4/4,0.178,#12345r
+R&B,Beyoncé,Flawless Remix,0zVMzJ37VQNFUNvdxxat2E,69,0.241,0.639,234413,0.659,8.33e-06,G#,0.484,-7.273,Major,0.215,136.801,4/4,0.457,#12345r
+R&B,Jason Derulo,Tip Toe (feat. French Montana),2z4pcBLQXF2BXKFvd0BuB6,76,0.0233,0.845,187521,0.709,0,A#,0.094,-4.547,Minor,0.0714,98.062,4/4,0.62,#12345r
+R&B,TWENTY88,On The Way,2TAf6ITyhwc9Z3MYb4tSYl,61,0.0808,0.584,203227,0.687,0,C#,0.2,-7.176,Minor,0.321,129.902,4/4,0.324,#12345r
+R&B,Big Sean,I Know,6rje9f1wRFJDO2iTORw0lH,66,0.288,0.741,319973,0.345,0,C#,0.117,-11.31,Major,0.0754,120.015,4/4,0.277,#12345r
+R&B,Christina Aguilera,"Lady Marmalade - From ""Moulin Rouge"" Soundtrack",7GQqj9jRtDkMp8zByehXQI,65,0.0174,0.751,264847,0.766,8.07e-06,F,0.658,-3.594,Major,0.0515,109.897,4/4,0.673,#12345r
+R&B,Tierra Whack,CLONES,6zlBoRMKQv2UyrafMVoQlq,61,0.184,0.791,171392,0.494,0.0182,A,0.482,-8.705,Major,0.347,146.003,4/4,0.6,#12345r
+R&B,Jessie Reyez,Body Count (feat. Normani & Kehlani) - Remix,4o7WXic8yAQWOV7iJXZ4jD,62,0.458,0.703,158947,0.586,0,B,0.154,-4.587,Minor,0.212,149.736,4/4,0.264,#12345r
+R&B,6LACK,Disconnect,5dgkSJAuFXZnwz7OAFUnIk,65,0.576,0.457,265883,0.337,9.27e-06,F#,0.19,-10.825,Minor,0.166,66.933,3/4,0.184,#12345r
+R&B,SZA,Childs Play (feat. Chance the Rapper),7GPstnufSTScEaw9dMxO9H,65,0.775,0.759,216234,0.342,0,C#,0.112,-9.044,Minor,0.0406,99.995,4/4,0.22,#12345r
+R&B,Kyle Dion,Brown,3t7wojJJqpSNCASv5wOe5I,63,0.0759,0.546,234759,0.698,0.000131,C,0.0613,-4.678,Major,0.0987,72.417,4/4,0.616,#12345r
+R&B,Roy Woods,Get You Good,2yTTfOaptQVJiocgjoQFfi,68,0.0306,0.69,226632,0.502,0,C,0.145,-7.077,Minor,0.0638,86.185,4/4,0.329,#12345r
+R&B,Tove Lo,Habits (Stay High),14OxJlLdcHNpgsm4DRwDOB,67,0.0703,0.733,209160,0.65,6.59e-05,F,0.0829,-3.539,Major,0.0315,110.003,4/4,0.348,#12345r
+R&B,James Blake,Can't Believe The Way We Flow,6voR6zsWIn7vgZYGOFKYSZ,65,0.705,0.259,267200,0.536,0.000501,G#,0.432,-10.309,Major,0.0367,143.948,4/4,0.29,#12345r
+R&B,Joji,SLOW DANCING IN THE DARK - Loud Luxury Remix,59pC3ONM6ggVn0CYi0l1KD,65,0.00616,0.752,176414,0.883,0.0998,F,0.167,-4.45,Minor,0.0426,122.026,4/4,0.509,#12345r
+R&B,Jennifer Lopez,Dinero,22mQXNE0nCuWq4yOwcadIn,70,0.41,0.721,213750,0.881,7.61e-06,G#,0.292,-2.528,Major,0.342,127.759,4/4,0.643,#12345r
+R&B,Rihanna,Hate That I Love You,7iu0WYLdo4yksKf3seaxzI,72,0.323,0.637,218947,0.73,0,F,0.0981,-5.38,Minor,0.0874,93.867,4/4,0.732,#12345r
+R&B,Miguel,Remember Me (Dúo),3pCgIUkmRHKydu9HE03QKY,66,0.426,0.612,164453,0.548,0,C,0.502,-6.71,Major,0.0351,84.991,4/4,0.617,#12345r
+R&B,TLC,Creep,1aWV3uY3SIEZVbmv45oFWS,68,0.0193,0.811,268533,0.458,1.41e-06,F,0.0526,-9.688,Minor,0.0402,92.94,4/4,0.797,#12345r
+R&B,PARTYNEXTDOOR,Wus Good / Curious,2ekdnv2xVIyAdG3ySoDDeY,67,0.0727,0.344,212880,0.537,0.000127,G#,0.225,-8.215,Minor,0.079,82.878,5/4,0.453,#12345r
+R&B,MIKExANGEL,Complicated,5cKRlX4h9UqSOBIuNZfsvP,64,0.107,0.577,192984,0.516,0,A,0.325,-7.616,Major,0.259,118.364,4/4,0.343,#12345r
+R&B,Nick Jonas,"Introducing Me - From ""Camp Rock 2: The Final Jam""",74tQaH4CxM5Rs9BzerEbHr,68,0.46,0.513,186893,0.496,0,B,0.106,-6.049,Major,0.0511,113.072,4/4,0.676,#12345r
+R&B,Tory Lanez,S.w.I.n.G (feat. PnB Rock & Trey Songz),7o8xfkcYJs1CPZXWiIFimg,67,0.244,0.621,278515,0.777,0,G#,0.449,-4.75,Minor,0.151,138.007,4/4,0.526,#12345r
+R&B,Chris Brown,Privacy,2Vf2Pflg5rTWSvSCK4qq4A,68,0.153,0.741,220964,0.58,0,C,0.109,-7.741,Major,0.378,97.092,4/4,0.428,#12345r
+R&B,Alina Baraz,Lavender and Velvet,57nReJa69S1lEJGYHLCKlx,62,0.401,0.684,228966,0.512,0,B,0.1,-7.232,Minor,0.0401,127.908,4/4,0.354,#12345r
+R&B,Dreezy,Body,20s34XSPIiYMGSFDRSs24t,62,0.552,0.735,232707,0.567,0,C,0.0659,-5.962,Major,0.0635,149.968,4/4,0.574,#12345r
+R&B,T-Pain,Here It Comes (feat. Russ),5cpiUTX2VJn5JN7myo2XaD,57,0.0332,0.716,222004,0.597,0,F#,0.163,-7.774,Minor,0.0547,140.03,4/4,0.306,#12345r
+R&B,PJ Morton,Say So (feat. JoJo),6OLlACmD4AlW2N7CWVhVxO,63,0.591,0.502,212973,0.409,0,C,0.113,-7.581,Major,0.0512,75.231,4/4,0.234,#12345r
+R&B,Tom Misch,Movie,6pxElwU80zhjbCC77Vn8EI,67,0.391,0.785,357357,0.379,0.0161,G,0.267,-11.446,Major,0.0732,122.043,3/4,0.182,#12345r
+R&B,Usher,OMG (feat. will.i.am),1bM50INir8voAkVoKuvEUI,70,0.198,0.781,269493,0.745,1.14e-05,E,0.36,-5.81,Minor,0.0332,129.998,4/4,0.326,#12345r
+R&B,Jeremih,All The Time,0USZx50eApN045zIIyjePN,70,0.53,0.679,264200,0.44,5.15e-06,F,0.228,-9.313,Major,0.351,109.959,4/4,0.0336,#12345r
+R&B,Dijon,Skin,467t3218y3yihFcyDGWjr0,62,0.512,0.674,230625,0.616,2.1e-06,G,0.331,-3.471,Major,0.0272,94.934,4/4,0.551,#12345r
+R&B,Yuna,Crush,3Txcx4jhuiTZSvhAL0WaRc,65,0.366,0.678,243133,0.414,3.78e-06,A,0.0885,-10.144,Minor,0.0498,130.031,4/4,0.355,#12345r
+R&B,Keri Hilson,Pretty Girl Rock,2Adn2LNgkHMH5TelQVAu4n,64,0.203,0.666,243920,0.87,0,B,0.0851,-5.004,Minor,0.246,160.014,4/4,0.9,#12345r
+R&B,Steve Lacy,Some,4riDfclV7kPDT9D58FpmHd,63,0.00548,0.784,118393,0.554,0.254,G,0.0995,-6.417,Major,0.03,104.01,4/4,0.634,#12345r
+R&B,The Japanese House,Saw You In A Dream,0U3u0HdRQjD8mAMYBak4Ok,62,0.0729,0.605,208280,0.446,0,E,0.149,-8.244,Major,0.028,94.044,4/4,0.685,#12345r
+R&B,T-Pain,A Million Times (feat. O.T. Genasis),4WB42HWRwXYCEemgNs21E6,59,0.0761,0.738,293345,0.519,0,G,0.092,-5.403,Minor,0.185,96.061,4/4,0.61,#12345r
+R&B,Tory Lanez,KeeP IN tOUcH (feat. Bryson Tiller),1BZdJrCYel0jMNmKY8KkUD,68,0.305,0.539,199627,0.886,0,B,0.0955,-4.332,Minor,0.493,109.016,5/4,0.562,#12345r
+R&B,The Weeknd,Attention,6pDVjCUA3B1vg9waKutAsv,67,0.682,0.671,197653,0.428,0.0002,E,0.121,-7.054,Minor,0.124,148.041,4/4,0.36,#12345r
+R&B,H.E.R.,2,2YyNFk4HBKXrqgsvPDNJtO,61,0.313,0.794,188987,0.448,0.0184,F#,0.128,-7.401,Minor,0.148,149.975,4/4,0.429,#12345r
+R&B,T-Pain,RIP to the Parking Lot (feat. Boosie Badazz),6B8pOvEZg9L1CamPMZ5OK2,57,0.0227,0.769,242250,0.558,0,C#,0.0803,-6.526,Major,0.344,179.993,3/4,0.771,#12345r
+R&B,City Girls,Season (feat. Lil Baby),1VAIB64hpLeaoDKzaCLywU,61,0.0101,0.595,202943,0.695,0,G,0.157,-4.634,Major,0.306,139.037,5/4,0.401,#12345r
+R&B,Brent Faiyaz,Lovely,2jGjNCH6Op0BqBHPc4Rd8d,60,0.575,0.385,291098,0.473,2.88e-05,G#,0.13,-8.656,Minor,0.0519,143.614,3/4,0.0575,#12345r
+R&B,Jacquees,Inside feat. Trey Songz,1yIEiamPoVQGpFsYaImNFY,64,0.0163,0.71,248467,0.578,0,B,0.246,-5.84,Minor,0.0604,125.969,4/4,0.512,#12345r
+R&B,JP Saxe,The Few Things (with Charlotte Lawrence),7GajeLvMksa794ZEQXwRSy,67,0.64,0.536,211567,0.426,5.88e-06,G,0.147,-10.446,Major,0.123,135.872,4/4,0.375,#12345r
+R&B,Chingy,Right Thurr,0l3GEbH3CviUytD6iX4wzg,70,0.15,0.866,249800,0.749,0,D,0.0591,-3.977,Major,0.253,92.077,4/4,0.891,#12345r
+R&B,H.E.R.,I'm Not OK,7hgFh60j6O7sigPEHmNsCu,60,0.865,0.535,205973,0.395,1.78e-05,B,0.0996,-11.887,Minor,0.0614,102.206,5/4,0.147,#12345r
+R&B,Wale,Lotus Flower Bomb (feat. Miguel),3MAgQuClHcAV8E9CbeBS6f,65,0.611,0.512,213253,0.598,0,A,0.0881,-4.959,Minor,0.115,70.189,4/4,0.345,#12345r
+R&B,Kiana Ledé,Wicked Games,0TYhf0MgEj4YJaKwo5c4Km,62,0.447,0.789,181267,0.435,0,C#,0.135,-7.042,Minor,0.0599,72.973,3/4,0.456,#12345r
+R&B,Iggy Azalea,Black Widow,7pNC5ZIKtwUK0ReSpM3P9f,65,0.181,0.741,209423,0.726,0.000189,D#,0.111,-3.77,Minor,0.143,163.991,4/4,0.527,#12345r
+R&B,Kelly Clarkson,Love So Soft,16QN8cBubEq706vNtPpOME,67,0.0053,0.808,172427,0.581,1.19e-05,B,0.0828,-5.43,Major,0.07,130.012,4/4,0.758,#12345r
+R&B,PARTYNEXTDOOR,Not Nice,4STaHtfguDMkWbPEo6Fwcx,69,0.0253,0.598,202661,0.496,0.00132,C,0.12,-9.309,Major,0.0804,128.06,4/4,0.725,#12345r
+R&B,Tory Lanez,Pa Mi (with Ozuna),0CYLDwvvpJQySLA5CvqvSl,71,0.0983,0.596,216689,0.557,0,C#,0.0565,-7.522,Minor,0.134,133.247,5/4,0.661,#12345r
+R&B,The Weeknd,A Lonely Night,0ifooM33X1iBxVYyOkSbXW,68,0.0431,0.853,220173,0.663,8.65e-06,G,0.0891,-6.955,Minor,0.0755,113.999,4/4,0.864,#12345r
+R&B,Nina Sky,Move Ya Body,2ndnVdR8si7CW9T8vJRHyW,66,0.0234,0.876,232000,0.71,0.000161,B,0.0573,-6.446,Minor,0.0446,121.072,4/4,0.828,#12345r
+R&B,Fifth Harmony,All In My Head (Flex) (feat. Fetty Wap),7nD9nN3jord9wWcfW3Gkcm,70,0.023,0.689,210573,0.791,0,C,0.0526,-5.194,Minor,0.053,95.04,4/4,0.755,#12345r
